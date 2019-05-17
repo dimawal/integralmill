@@ -1,0 +1,77 @@
+
+.validacaoErro{
+    color: #f86c6b;
+    font-size: 90%;
+    //font-weight: bold;
+}
+
+.no-padding-top{
+    padding-top: 0px !important;
+}
+
+.no-padding-bottom{
+    padding-bottom: 0px !important;
+}
+
+.no-margin-bottom{
+    margin-bottom: 0px !important;
+}
+
+.form-control{
+    border: 1px solid #a6a6a6;
+}
+
+.p-datatable-tbody > tr.p-highlight-contextmenu {
+    background-color:#00ab9c !important
+}
+
+body .p-paginator .p-paginator-pages .p-paginator-page.p-highlight {
+    background-color:#00ab9c !important
+}
+
+.p-dropdown-label{
+    padding-bottom: 0px !important;
+}
+
+
+body .p-datatable .p-sortable-column.p-highlight {
+    background-color:#00ab9c !important  
+}
+
+.p-fieldset, .p-fieldset .p-fieldset-legend {
+    padding: 0;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+#dtSecao > thead {
+    background-color: black !important;
+}
+
+/* acordion */
+body .p-accordion .p-accordion-header:not(.p-disabled).p-highlight a{
+    background-color:#00ab9c !important;
+    border: 1px #00ab9c solid;
+    font-size:10pt;
+}
+
+body .p-accordion .p-accordion-header:not(.p-disabled).p-highlight:hover a {
+    border: 1px solid #00ab9c;
+    background-color: #00ab9c;
+    color: #ffffff;
+    font-size:10pt;
+}
+
+body .p-accordion .p-accordion-header a {
+    font-size:10pt;
+}
+
+body .p-panel .p-panel-content{
+    padding-bottom: 0px;
+}
+
+.p-dropdown-filter-container{
+    width:100% !important
+}
